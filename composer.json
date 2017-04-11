@@ -1,0 +1,12 @@
+{
+    "name": "awb/graph-facebook",
+    "description": "Package to get data (email and name) from facebook based user token",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "awebr000",
+            "email": "mas.awe.awe@gmail.com"
+        }
+    ]
+}
